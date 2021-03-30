@@ -17,5 +17,4 @@ build_script:
 <<<<<<< HEAD
   - ./gradlew test --info
 =======
-  - ./gradlew test --info 
->>>>>>> 2a9ecbe395d7ed6de446333fea0645d5a44a7b16
+
